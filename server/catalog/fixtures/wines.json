@@ -1,0 +1,266 @@
+[
+  {
+    "model": "catalog.wine",
+    "pk": "00008cb3-9981-48ce-bd5c-28f3b4cc9432",
+    "fields": {
+      "country": "Italy",
+      "description": "Sharp aromas of white cherry and bramble open the nose of this ruby-colored Negroamaro. The wine does boast bright acidity and some sourness that should pair with fried rice balls stuffed with cheesy mozzarella.",
+      "points": 85,
+      "price": null,
+      "variety": "Negroamaro",
+      "winery": "Vita Italia"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "0000fa22-d2d2-432a-b4f7-6aa11a960d56",
+    "fields": {
+      "country": "US",
+      "description": "Here's a dry, briskly crisp young Pinot Noir that offers plenty of pleasure now and should develop in the bottle. It's a big wine, dark and saturated in cherries, blackberries and red plums, with the prettiest vanilla and toast flavors from oak. Should slowly develop through 2014.",
+      "points": 92,
+      "price": "50.00",
+      "variety": "Pinot Noir",
+      "winery": "Tyler"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "0000fe1f-e8e3-4eea-9aa7-c700d6d69f5c",
+    "fields": {
+      "country": "New Zealand",
+      "description": "The Swiss folk at Herzog are making some interesting wines. Even this Pinot isn't without merit, although it's definitely weird. The nose is full of cola and wintergreen, with hints of cured meat, while the flavors resemble camphor and hickory smoke. Turns dry and astringent on the finish. Imported by Oenophilia Imports.",
+      "points": 83,
+      "price": "35.00",
+      "variety": "Pinot Noir",
+      "winery": "Herzog"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "0000fefb-b0d5-40c7-ba73-2cf036eaf2b4",
+    "fields": {
+      "country": "Italy",
+      "description": "This vintage of Brunello from Belpoggio delivers thick and luscious tones of black fruit, plum, spice, blackberry and plump cherry. The wine is rich and smooth in the mouth with loads of black fruit nuances and an impressive, long finish. So far, this is our favorite vintage from this producer.",
+      "points": 90,
+      "price": "50.00",
+      "variety": "Sangiovese Grosso",
+      "winery": "Belpoggio"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "00019278-ff56-4f24-a20d-c87b42a0cf40",
+    "fields": {
+      "country": "US",
+      "description": "This is a thoroughly modern style: 100% French oak, Dijon Clone 75, plenty of lees contact. The yeasty nose introduces a very rich, mouthcoating sensation of butterscotch. Those leesy, creamy, butterscotch flavors surround the palate; the green apple fruit carries a bit of crisp authority and keeps the structure firm. Long, smooth and very sensual without being too tiring.",
+      "points": 90,
+      "price": "25.00",
+      "variety": "Chardonnay",
+      "winery": "Saviah"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "0001b5bc-2f33-4e10-8970-a4fb3b1b2ad0",
+    "fields": {
+      "country": "Portugal",
+      "description": "Earthy aromas are a hallmark of the Baga grape, a component of this full-bodied, tannic blend. With weight and richness, a mint note and new wood flavors, it is a serious wine that still should develop over three years.",
+      "points": 92,
+      "price": "29.00",
+      "variety": "Portuguese Red",
+      "winery": "Caves Alian\u00e7a"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "0001f84a-7e5b-4a67-894b-93ab0538974d",
+    "fields": {
+      "country": "Italy",
+      "description": "This pretty expression of Prosecco opens with distinct aromas of white flower, honey and passion fruit. The quality of the perlage is firm and bright, with a steady delivery of mouth-cleansing effervescence.",
+      "points": 87,
+      "price": "20.00",
+      "variety": "Glera",
+      "winery": "Piera Martellozzo"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "00022582-5ecf-4a04-b663-c64c9362ee7f",
+    "fields": {
+      "country": "US",
+      "description": "A pale salmon color, this is all Pinot Noir, picked early for the purpose of making ros\u00e9. Quite dry and elegant, it's a juicy, acidic wine, with pretty strawberry and watermelon flavors highlighted with zesty spice.",
+      "points": 88,
+      "price": "17.00",
+      "variety": "Ros\u00e9",
+      "winery": "Ponzi"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "0002fcd1-8ff8-49a9-832d-8709287c944c",
+    "fields": {
+      "country": "Croatia",
+      "description": "Aromas of superripe red fruit and charred wood match the soft mocha and red fruit flavors on this Croatian red made from the Teran grape. Finishes a bit sour with mouth-puckering acidity and tannins.",
+      "points": 81,
+      "price": "18.00",
+      "variety": "Teran",
+      "winery": "Piquentum"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "0004ca89-7444-4987-a9bc-35280bca7e24",
+    "fields": {
+      "country": "Greece",
+      "description": "Grapefruit and orange peel aromas are followed by a balance of white peach and lemon on the palate. Brisk but fuller-bodied, the wine has a viscous mouthfeel that finishes clean. This is a food-friendly wine to pair with fresh fish and poultry.",
+      "points": 88,
+      "price": "23.00",
+      "variety": "Assyrtico",
+      "winery": "Estate Biblia Chora"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "00055be4-e260-4cea-b7e8-0ce823449840",
+    "fields": {
+      "country": "France",
+      "description": "This is a medium-sweet, pleasing almond and white-fruit flavored wine that, with its low alcohol, makes a good drink by itself. It's a clean, fresh wine, has some good depth of finishing acidity and ripe fruits.",
+      "points": 84,
+      "price": "11.00",
+      "variety": "Chenin Blanc",
+      "winery": "Caves du Val de France"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "000615fd-ffdf-404e-84f3-a05b5a66107e",
+    "fields": {
+      "country": "US",
+      "description": "The Santa Cruz producer Bargetto ventures into Lodi to make this old-vine Zin and unfortunately something gets lost in translation. The wine comes off a little bitter, like blackberries picked too soon.",
+      "points": 83,
+      "price": "20.00",
+      "variety": "Zinfandel",
+      "winery": "Bargetto"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "0007601d-20e9-49d5-9680-564402b4deb8",
+    "fields": {
+      "country": "Italy",
+      "description": "This blend of 70% Nero d'Avola and 30% Syrah opens with aromas of blackberry and blue flower. The lean palate is drying out, but still offers a black cherry note and astringent wood tannins that give it an abrupt, drying finish.",
+      "points": 86,
+      "price": "26.00",
+      "variety": "Red Blend",
+      "winery": "Di Giovanna"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "0007e3c6-58d9-485d-b790-c100a8fa5143",
+    "fields": {
+      "country": "New Zealand",
+      "description": "This is a silky, medium-bodied Pinot Noir that's ready to drink. Pleasant cherry fruit is joined by hints of twig and earth, and a touch of mocha emerges on the finish.",
+      "points": 88,
+      "price": "24.00",
+      "variety": "Pinot Noir",
+      "winery": "Mt. Beautiful"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "0008ae9f-4029-4a74-ba48-19a2f52cc8af",
+    "fields": {
+      "country": "US",
+      "description": "Solid and clean, a Rh\u00f4ne-style blend based on Grenache. Bone dry and tannic, it features black cherry, red currant, anise and sandalwood flavors. Nice with steak fajitas, ham or roasted pork.",
+      "points": 86,
+      "price": "40.00",
+      "variety": "Rh\u00f4ne-style Red Blend",
+      "winery": "Four Vines"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "00096bc1-ad6c-4e27-85dc-aca4ab42245c",
+    "fields": {
+      "country": "US",
+      "description": "This seems like one of the sweeter Gew\u00fcrztraminers out there, with flavors of white sugar, Asian pear, lychee and spice. The sweetness is balanced with crisp acidity.",
+      "points": 85,
+      "price": "15.00",
+      "variety": "Gew\u00fcrztraminer",
+      "winery": "Bargetto"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "00097705-8107-425d-b6e9-48694e8fddd9",
+    "fields": {
+      "country": "France",
+      "description": "This is a structured, fruity wine, with red cherry flavors that go well with the drier edge of tannin. It has a layer of acidity that cuts through the ripe fruit showing a more ageworthy character. Keep this wine for 2\u20133 years, although with its fruitiness it can be drunk now.",
+      "points": 88,
+      "price": null,
+      "variety": "Gamay",
+      "winery": "Ch\u00e2teau des Jean-Loron"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "000a72c7-b412-4705-b868-aa6bdba064d1",
+    "fields": {
+      "country": "New Zealand",
+      "description": "A full-bodied, flamboyant version of this benchmark bottling, the 2007 verges on too much, with lush tropical fruit framed by smoky notes and finishing spicy and slightly warm. Unlikely to have the longevity of the 2008, it's a bold, extroverted Chard ideal for drinking over the next year or two.",
+      "points": 90,
+      "price": "48.00",
+      "variety": "Chardonnay",
+      "winery": "Neudorf"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "000b36bf-9863-422e-b6ef-85c6eceb0b73",
+    "fields": {
+      "country": "US",
+      "description": "Light, rather thin Merlot fruit is coated with lush flavors of licorice and vanilla. The oak treatment may seem over the top to some, just right to others. There's plenty of acid to wash the palate clean.",
+      "points": 86,
+      "price": "15.00",
+      "variety": "Merlot",
+      "winery": "Boomtown"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "000c2938-c902-451e-a122-fd8cc0d0baa9",
+    "fields": {
+      "country": "Italy",
+      "description": "This blend of Cabernet Sauvignon, Merlot and Sangiovese opens with polished aromas of smooth stone, granite, black pepper, red berry fruit and a touch of natural rubber or Band-Aid. There's also an interesting herbal element that plays a strong background role and that adds chopped mint and basil to the finish.",
+      "points": 87,
+      "price": "26.00",
+      "variety": "Red Blend",
+      "winery": "Trer\u00e8"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "000cd907-25e2-42cf-9e81-ee37b067f672",
+    "fields": {
+      "country": "US",
+      "description": "Sort of a reserve version of the Zachary's Ladder, this is a 60/40 Syrah/Cabernet blend. Some of the Syrah has been barrel fermented, and the finished wine spent 21 months in new French oak. Thick and tannic, it is still settling into itself, but offers rich components\u2014citrus, acid, spice, stem, chocolate, earth, dust and that dense black fruit core. The tannins are fine-grained and fulsome.",
+      "points": 93,
+      "price": "65.00",
+      "variety": "Syrah-Cabernet Sauvignon",
+      "winery": "Gorman"
+    }
+  },
+  {
+    "model": "catalog.wine",
+    "pk": "000d20e0-5627-4486-9f27-ab3ffa8686b6",
+    "fields": {
+      "country": "US",
+      "description": "This limited-edition Pinot Gris was barrel-fermented and aged sur lie. It broadens out the palate and adds layers of buttered popcorn, caramel and toasted hazelnuts to the apple and pear fruit flavors.",
+      "points": 87,
+      "price": "22.00",
+      "variety": "Pinot Gris",
+      "winery": "Erath"
+    }
+  }
+]
