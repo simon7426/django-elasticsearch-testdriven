@@ -5,7 +5,6 @@ venv
 server/static
 .DS_Store
 .dockerignore
-README.md
 cypress
 cypress.json
 node_modules
